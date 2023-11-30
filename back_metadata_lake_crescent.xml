@@ -1,0 +1,418 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Peter Dartnell</origin>
+        <origin>Jonathan A. Warrick</origin>
+        <origin>Karl W. Wegmann</origin>
+        <pubdate>20170601</pubdate>
+        <title>Multibeam acoustic-backscatter data collected in 2016 for Lake Crescent, Olympic National Park, Washington</title>
+        <geoform>TIFF</geoform>
+        <serinfo>
+          <sername>data release</sername>
+          <issue>DOI: 10.5066/F7B56GW5</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Pacific Coastal and Marine Science Center, Santa Cruz, California</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7B56GW5</onlink>
+        <onlink>https://www.sciencebase.gov/catalog/item/5eea74d882ce3bd58d8572dd</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Peter Dartnell</origin>
+            <origin>Jonathan A. Warrick</origin>
+            <origin>Karl W. Wegmann</origin>
+            <pubdate>2017</pubdate>
+            <title>Multibeam bathymetry and acoustic-backscatter data collected in 2016 for Lake Crescent, Olympic National Park, Washington</title>
+            <serinfo>
+              <sername>data release</sername>
+              <issue>DOI:10.5066/F7B56GW5</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Pacific Coastal and Marine Science Center, Santa Cruz, CA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.5066/F7B56GW5</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>In February 2016 the U.S. Geological Survey, Pacific Coastal and Marine Science Center in cooperation with North Carolina State University and the National Park Service collected multibeam bathymetry and acoustic backscatter data in Lake Crescent located in Olympic National Park, Washington. Data were collected using a Reson 7111 multibeam echosounder pole-mounted to the 36-foot USGS R/V Parke Snavely. These metadata describe the multibeam acoustic-backscatter data file that is included in "LakeCrescent_backscatter_3m_UTM10_NAD83.zip" which is accessible from https://doi.org/10.5066/F7B56GW5.</abstract>
+      <purpose>These data are intended for science researchers, students, policy makers, and the general public. These data can be used with geographic information systems or other software to identify bathymetric features. These data are not intended to be used for navigation.</purpose>
+      <supplinf>Additional information about the field activity from which these data were derived are available online at: 
+
+https://cmgds.marine.usgs.gov/fan_info.php?fan=2016-604-FA
+
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
+Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in Esri format, this metadata file may include some Esri-specific terminology.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160208</begdate>
+          <enddate>20160211</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition at time data were collected.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-123.917</westbc>
+        <eastbc>-123.740</eastbc>
+        <northbc>48.096</northbc>
+        <southbc>48.048</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5eea74d882ce3bd58d8572dd</themekey>
+      </theme>
+      <theme>
+        <themekt>Global Change Master Directory (GCMD)</themekt>
+        <themekey>Bathymetry</themekey>
+        <themekey>Seafloor Topography</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>multibeam sonar</themekey>
+        <themekey>geospatial datasets</themekey>
+        <themekey>lakebed acoustic reflectivity</themekey>
+        <themekey>lakebed characteristics</themekey>
+        <themekey>geology</themekey>
+        <themekey>marine geophysics</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB) keywords</themekt>
+        <themekey>lake bed</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+        <themekey>Pacific Coastal and Marine Science Center</themekey>
+        <themekey>PCMSC</themekey>
+        <themekey>Coastal and Marine Hazards and Resources Program</themekey>
+        <themekey>CMHRP</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Lake Crescent</placekey>
+        <placekey>State of Washington</placekey>
+        <placekey>Olympic National Park</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>USGS-authored or produced data and information are in the public domain from the U.S. Government and are freely redistributable with proper metadata and source attribution. Please recognize and acknowledge the U.S. Geological Survey, North Carolina State University, and the National Park Service as the originators of the dataset and in products derived from these data. This information is not intended for navigation purposes.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Pacific Coastal and Marine Science Center</cntorg>
+          <cntper>PCMSC Science Data Coordinator</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2885 Mission Street</address>
+          <city>Santa Cruz</city>
+          <state>CA</state>
+          <postal>95060</postal>
+        </cntaddr>
+        <cntvoice>831-427-4747</cntvoice>
+        <cntemail>pcmsc_data@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Imported Reson 7111 survey line files into SonarWiz software (version 6) on a Windows 7 computer for processing. Final imagery exported as an Imagine image and imported into ArcMap (version 10.3.1.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Not applicable for raster data.</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted.</logic>
+    <complete>Dataset is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Estimated to be no less than 3 m, owing to water depth and total propagated uncertainties of the mapping systems, which include sonar system, position and motion compensation system, and navigation, as well as data processing that includes sounding cleaning, gridding, and datum transformations.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Not applicable to backscatter data</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Between February 8 and 11, 2016 the U.S. Geological Survey collected multibeam bathymetry and acoustic-backscatter data in Lake Crescent, Washington using a Reson 7111 multibeam echosounder mounted on the R/V Parke Snavely. During the mapping mission an Applanix POS MV (Position and Orientation System for Marine Vessels) was used to accurately position the vessel during data collection and it also accounted for vessel motion such as heave, pitch, and roll. The POS MV also recorded position and vessel motion parameters for later post-processing. Sound-velocity profiles were collected throughout the survey days with an Applied Microsystems (AM) SVPlus sound velocimeter. The Reson 7111 acoustic-backscatter data were processed using SonarWiz software. The software normalizes for time-varying signal loss and beam directivity differences. The resulting imagery was exported as an Imagine image and imported into a GIS and converted to a grid. The grid was then projected from WGS84 to NAD83 using the WGS84_1984_(ITRF08)_to_NAD_1983_2011 tool in ESRI ArcTools. The grid was then exported to a TIFF image in UTM-10, NAD83 coordinates.</procdesc>
+        <procdate>2016</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata was modified to bring up to current USGS PCMSC standards. Minor typos were corrected. No data information was changed.</procdesc>
+        <procdate>20180622</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Susan A Cochran</cntper>
+              <cntorg>U.S. Geological Survey, Pacific Coastal and Marine Science Center</cntorg>
+            </cntperp>
+            <cntpos>Geologist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>2885 Mission Street</address>
+              <city>Santa Cruz</city>
+              <state>CA</state>
+              <postal>95060-5792</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(831) 460-7545</cntvoice>
+            <cntemail>scochran@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Minor typos were corrected. No data information was changed.</procdesc>
+        <procdate>20180830</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Susan A Cochran</cntper>
+              <cntorg>U.S. Geological Survey, Pacific Coastal and Marine Science Center</cntorg>
+            </cntperp>
+            <cntpos>Geologist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>2885 Mission Street</address>
+              <city>Santa Cruz</city>
+              <state>CA</state>
+              <postal>95060-5792</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(831) 460-7545</cntvoice>
+            <cntemail>scochran@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Data and metadata files were moved to a different location on ScienceBase, resulting in a change of ID number in the Online_Linkage and Network_Resources URLs of the metadata. In addition, edits were made as needed to bring the metadata up to current PCMSC standards including standardizing doi# links, correcting typos, adding disclaimers, and refining keywords. Point of Contact and Metadata Contact information sections were changed to static PCMSC contact information. No data were changed. Users are advised to compare the metadata date of this file to any similar file to ensure they are using the most recent version.
+</procdesc>
+        <procdate>20200617</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Susan A Cochran</cntper>
+              <cntorg>U.S. Geological Survey, Pacific Coastal and Marine Science Center</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>2885 Mission St.</address>
+              <city>Santa Cruz</city>
+              <state>CA</state>
+              <postal>95060</postal>
+              <country>United States</country>
+            </cntaddr>
+            <cntvoice>831-460-7545</cntvoice>
+            <cntemail>scochran@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Edited metadata to add keywords section with USGS persistent identifier as theme keyword. No data were changed.</procdesc>
+        <procdate>20201019</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Geological Survey</cntorg>
+              <cntper>VeeAnn A. Cross</cntper>
+            </cntorgp>
+            <cntpos>Marine Geologist</cntpos>
+            <cntaddr>
+              <addrtype>Mailing and Physical</addrtype>
+              <address>384 Woods Hole Road</address>
+              <city>Woods Hole</city>
+              <state>MA</state>
+              <postal>02543-1598</postal>
+            </cntaddr>
+            <cntvoice>508-548-8700 x2251</cntvoice>
+            <cntfax>508-457-2310</cntfax>
+            <cntemail>vatnipp@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>1758</rowcount>
+      <colcount>4382</colcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>10</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-123.00000</longcm>
+              <latprjo>0.00000</latprjo>
+              <feast>500000.0</feast>
+              <fnorth>0.00</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>3.0</absres>
+            <ordres>3.0</ordres>
+          </coordrep>
+          <plandu>Meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>NAD83</horizdn>
+        <ellips>GRS80</ellips>
+        <semiaxis>6378137.00</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>value</enttypl>
+        <enttypd>backscatter intensity</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+    </detailed>
+    <overview>
+      <eaover>The complete 3-m resolution Lake Crescent acoustic-backscatter image was originally archived as a TIFF image with the following attributes.
+&gt;Cell size = 3.0
+&gt;Number of rows = 1758
+&gt;Number of columns = 4382
+&gt;
+&gt;Data type = floating point
+&gt;
+&gt;Boundary
+&gt;Xmin = 431687
+&gt;Xmax = 444833
+&gt;Ymin = 5321907
+&gt;Ymax = 5327181
+&gt;
+&gt;Statistics
+&gt;Minimum value = 0
+&gt;Maximum value = 157
+&gt;Mean = 13.69
+&gt;Standard deviation = 22.92
+&gt;
+&gt;Coordinate system description
+&gt;Projection  UTM
+&gt;Zone  10
+&gt;Datum  NAD83
+&gt;Units  meter</eaover>
+      <eadetcit>none</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>These data are available in TIFF format contained in a single zip file (LakeCrescent_backscatter_3m_UTM10_NAD83.zip), which also includes CSDGM FGDC compliant metadata. An accompanying map in pdf format (LakeCrescent_2016_backscatter_map.pdf) provides a visual display of the data.</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>geoTIFF</formname>
+          <formvern>ArcGIS 10.3.1</formvern>
+          <formcont>The .zip files contains the Tiff image (.tif), the projection world file (.tfw), and the XML (.xml) version of the metadata.</formcont>
+          <filedec>WinZip</filedec>
+          <transize>1</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://www.sciencebase.gov/catalog/file/get/5eea74d882ce3bd58d8572dd?name=LakeCrescent_backscatter_3m_UTM10_NAD83.zip</networkr>
+                <networkr>https://www.sciencebase.gov/catalog/file/get/5eea74d882ce3bd58d8572dd</networkr>
+                <networkr>https://doi.org/10.5066/F7B56GW5</networkr>
+              </networka>
+            </computer>
+            <accinstr>Data and other files can be downloaded using the Network_Resource_Name links. The first link is a direct link to download the zipped file containing the backscatter geoTIFF. The second link points to a landing page for the backscatter geoTIFF, metadata, and the accompanying pdf map. The third link points to the landing page for the entire data release.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>Portable Document Format</formname>
+          <formvern>Acrobat 6.0</formvern>
+          <formcont>map showing bathymetry data in pdf format</formcont>
+          <filedec>none</filedec>
+          <transize>55</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://www.sciencebase.gov/catalog/file/get/5eea74d882ce3bd58d8572dd?name=LakeCrescent_2016_backscatter_map.pdf</networkr>
+                <networkr>https://www.sciencebase.gov/catalog/item/5eea74d882ce3bd58d8572dd</networkr>
+                <networkr>https://doi.org/10.5066/F7B56GW5</networkr>
+              </networka>
+            </computer>
+            <accinstr>Data and other files can be downloaded using the Network_Resource_Name links. The first link is a direct link to download the backscatter map. The second link points to a landing page for the backscatter map, metadata, and the backscatter geoTIFF. The third link points to the landing page for the entire data release.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>The downloadable data file has been compressed with the "zip" command and can be unzipped with Winzip (or other tool) on Windows systems. To utilize these data, the user must have software capable of uncompressing the WinZip file and importing and viewing an TIFF image.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20201019</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Pacific Coastal and Marine Science Center</cntorg>
+          <cntper>PCMSC Science Data Coordinator</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2885 Mission Street</address>
+          <city>Santa Cruz</city>
+          <state>CA</state>
+          <postal>95060</postal>
+        </cntaddr>
+        <cntvoice>831-427-4747</cntvoice>
+        <cntemail>pcmsc_data@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
