@@ -13,4 +13,3 @@ Acoustic backscatter data: https://www.sciencebase.gov/catalog/item/5eea74d882ce
 Notes:
 <br>
 * Even though I'm linking the data here, I chose not to link the data in my Jupyter Notebook because I did not learn until three days before the presentation was due that GitHub is too small for my data and JupyterHub isn't.
-* Also, "project_code_full" is the JupyterHub notebook with my failed graphs' code and "project_code_cleaned" has that code taken out.
